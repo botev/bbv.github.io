@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "botev",
-    "repositoryName": "botev.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"botev","repositoryName":"botev.github.io","branch":"master"},"site":{"title":"Machine Learning Storm","description":"Random thoughts about random things in Machine Learning","url":"https://botev.github.io"},"socialnetwork":{"github":"botev"},"theme":{"name":"Casper","url":"//botev.github.io/themes/Casper"}}
